@@ -31,6 +31,3 @@ I specialize in transforming scattered administrative and financial data into cl
 |<img width="200" height="100" alt="533842484-8aa26329-1af3-4602-9da2-f134b0832fb5" src="https://github.com/user-attachments/assets/0538a970-b3be-4349-b14b-52dbb9a3f0b9" />| **[Sales and Logistics Data Analysis for FMCG Industry](https://github.com/DawidGabryelski/Sales-and-Logistics-Data-Analysis-for-FMCG-Industry)** | 
 | **[Project Name 2](LINK_DO_REPO)** | <img src="https://github.com/TWOJA_NAZWA/REPO/blob/main/thumbnail.png?raw=true" width="200" alt="Project 2"> | **Python / Pandas** <br> Operational efficiency & trend analysis. |
 ---
-
-### 📫 Connect with me:
-[LinkedIn](www.linkedin.com/in/dgabryelski) | [Email](dawidgabryelski2@wp.pl)
