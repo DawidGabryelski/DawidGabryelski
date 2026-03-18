@@ -26,8 +26,8 @@ I specialize in transforming scattered administrative and financial data into cl
 
 ### 📂 Featured Projects
 
-|| Project | Stack |
-| :--- | :--- | :--- |
-|<img width="200" height="100" alt="533842484-8aa26329-1af3-4602-9da2-f134b0832fb5" src="https://github.com/user-attachments/assets/0538a970-b3be-4349-b14b-52dbb9a3f0b9" />| **[Sales and Logistics Data Analysis for FMCG Industry](https://github.com/DawidGabryelski/Sales-and-Logistics-Data-Analysis-for-FMCG-Industry)** | 
-| **[Project Name 2](LINK_DO_REPO)** | <img src="https://github.com/TWOJA_NAZWA/REPO/blob/main/thumbnail.png?raw=true" width="200" alt="Project 2"> | **Python / Pandas** <br> Operational efficiency & trend analysis. |
----
+| Photo | Project | Short Description 
+| :--- | :--- | :--- | 
+|<img width="260" height="130" alt="533842484-8aa26329-1af3-4602-9da2-f134b0832fb5" src="https://github.com/user-attachments/assets/0538a970-b3be-4349-b14b-52dbb9a3f0b9" />| **[Sales and Logistics Data Analysis for FMCG Industry](https://github.com/DawidGabryelski/Sales-and-Logistics-Data-Analysis-for-FMCG-Industry)** | Comprehensive data analysis of supply chain efficiency and regional sales performance. Features automated ETL workflows and interactive Power BI dashboards to drive strategic decision-making in the FMCG sector.
+|<img width="260" height="130" alt="516884841-8bb7942d-f4c0-4744-bf63-fabb2880c458" src="https://github.com/user-attachments/assets/c1fee6e0-98d6-48a0-9b81-14a6a72eda38" />| **[Control Logistics Analysis of a Warehouse](https://github.com/DawidGabryelski/Warehouse-Data-Analysis)** | Advanced warehouse metrics analysis focusing on inventory turnover and stock optimization. Developed automated reporting to identify logistical bottlenecks and improve supply chain efficiency.|
+
